@@ -1,36 +1,24 @@
-# 🚀 Currículo Online - Maria Eduarda Barro Novo
+Meu Currículo Online
 
-Este é o meu currículo profissional totalmente interativo, desenvolvido para apresentar minhas competências, formação acadêmica e experiências de forma moderna e responsiva.
+Este projeto foi desenvolvido para apresentar meu perfil profissional de forma interativa e colocar em prática os conhecimentos que venho adquirindo no curso de Análise e Desenvolvimento de Sistemas na UNIP.
 
-## 🔗 Link para o Projeto
-[Visualizar Currículo Online](https://dudabarrnovo.github.io/meu-curriculo-web/) *(Substitua aqui pelo seu link do GitHub Pages)*
+#Link do projeto
+https://dudabarrnovo.github.io/meu-curriculo-web/
 
----
+Sobre o projeto
+Desenvolvi este site utilizando HTML, CSS e JavaScript. O objetivo foi criar uma página funcional e organizada para exibir minhas experiências, habilidades técnicas e certificações.
 
-## 🛠️ Tecnologias Utilizadas
+Funcionalidades implementadas:
+* Alternância de temas: Opção para trocar entre modo claro e modo escuro.
+* Efeito de digitação: Animação simples no cargo profissional via JavaScript.
+* Central de certificados: Botões configurados para abrir os arquivos PDF de cursos e especializações.
+* Layout responsivo: O conteúdo se ajusta automaticamente para telas de computadores e celulares.
 
-Para a construção deste projeto, utilizei as seguintes tecnologias:
+Tecnologias utilizadas:
+* HTML5 para a estrutura.
+* CSS3 para o layout e estilização (Flexbox e CSS Variables).
+* JavaScript para a lógica de temas e animações.
+* Font Awesome para os ícones de redes sociais e contatos.
 
-* **HTML5:** Estruturação semântica do conteúdo.
-* **CSS3:** Estilização com variáveis para Modo Escuro/Claro, Flexbox e Grid para layout responsivo.
-* **JavaScript (ES6):** Implementação do efeito de digitação dinâmico e lógica de alternância de temas.
-* **Font Awesome:** Biblioteca de ícones para uma interface intuitiva.
-* **Google Fonts:** Utilização da fonte 'Inter' para melhor legibilidade.
-
-## 🌟 Funcionalidades
-
-- **DarkMode/LightMode:** Alternância de temas para melhor experiência do usuário.
-- **Efeito Typing:** Animação de digitação para destacar o cargo atual.
-- **Certificações Interativas:** Seção com botões que abrem diretamente os arquivos PDF de certificados.
-- **Design Responsivo:** O layout se adapta perfeitamente a dispositivos móveis e desktops.
-- **Baixar Currículo:** Botão funcional para download do arquivo PDF oficial.
-
-## 🎓 Formação & Foco
-Atualmente cursando **Análise e Desenvolvimento de Sistemas (UNIP)**, com foco em desenvolvimento backend e domínio em:
-- C# / .NET
-- Java
-- Python
-- SQL Server
-
----
-Desenvolvido por [Maria Eduarda Barro Novo](https://github.com/dudabarrnovo)# meu-curriculo
+Maria Eduarda Barro Novo
+Estudante de ADS - UNIP
